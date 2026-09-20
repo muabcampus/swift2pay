@@ -1,3 +1,18 @@
+# Swift2Pay - CcHUB Capstone | UI/UX Track
+By Muhammad Ibrahim | MAS ARTIFICS, Kano
+
+Live App: https://swift2pay.vercel.app
+Capstone Docs: https://swift2pay.vercel.app/capstone
+
+Fixes 60% drop-off with Trust Design:
+- Login: CBN Licensed + 256-bit + Face ID
+- Home: Balance ₦152,450.50 + Trusted by 23,450+ traders
+- Transaction: Verified Merchant + Fee breakdown ₦5,010 + WhatsApp receipt
+
+Includes: Friction Audit, Personas (Aisha & Musa), Flow Map, RTCROS Prompt, A-I-P Proposal, NDPA Audit
+Built with: v0.app + Next.js + Vercel
+
+
 # swift2pay
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
